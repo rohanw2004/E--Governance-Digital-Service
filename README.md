@@ -84,21 +84,6 @@ Prepared weekly documentation and reports
 
 ---
 
-How to Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/your-repository-name.git
-
-Install required libraries:
-
-pip install -r requirements.txt
-
-Run Jupyter Notebook or Google Colab to open the project files.
-
-
----
-
 Author
 
 Rohan Wajekar
