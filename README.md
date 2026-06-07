@@ -87,15 +87,6 @@ Week 4 — Visualization and Findings
   <img src="assets/project-banner.png" alt="E-Governance Banner" width="100%">
 </p>
 
-
-Tools & Technologies
-
-Programming & Analysis
-
-Tools & Technologies
-
-Programming & Analysis
-
 ## Tools & Technologies
 
 ### Programming & Analysis
