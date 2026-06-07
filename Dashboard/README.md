@@ -1,7 +1,7 @@
 ## Dashboard Preview
 
 <p align="center">
-  <img src="Dashboard/Screenshot/SS4_E_Govrnnce_Output.png" alt="Dashboard" width="100%">
+  <img src="[Dashboard/Screenshot/SS4_E_Govrnnce_Output.png](https://github.com/rohanw2004/E--Governance-Digital-Service/blob/main/Dashboard/Screenshot/SS4_E_Governnce_Output.png)" alt="Dashboard" width="100%">
 </p>
 
 
