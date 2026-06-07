@@ -33,21 +33,26 @@ Project Goals
 
 Repository Structure
 
+
 E-Governance-Digital-Service/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── Week-1_Dataset_Collection/
-│   ├── Week-2_Preprocessing/
-│   ├── Week-3_EDA/
-│   └── Week-4_Insights_and_Visualization/
-│
-├── reports/
-├── visualizations/
-└── docs/
+
+- 📁 data/
+  
+  - raw/
+  - processed/
+
+- 📁 notebooks/
+  
+  - Week-1_Dataset_Collection/
+  - Week-2_Preprocessing/
+  - Week-3_EDA/
+  - Week-4_Insights_and_Visualization/
+
+- 📁 reports/
+
+- 📁 visualizations/
+
+- 📁 docs/
 
 ---
 
