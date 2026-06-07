@@ -1,7 +1,7 @@
 🌐 E-Governance Digital Service Analysis
 
 <p align="center">
-  <img src="assets/visualizations.png" alt="E-Governance Banner" width="100%">
+  <img src="assets/visualization.png" alt="E-Governance banner" width="100%">
 </p>
 
 
