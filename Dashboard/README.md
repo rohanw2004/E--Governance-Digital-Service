@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![E-Governance Dashboard](Dashboard/screenshots/dashboard_output.png)
+
 # Dashboard Overview
 
 This dashboard was developed as an extension of the E-Governance Data Analysis project to combine multiple governance indicators into a single analytical interface.
