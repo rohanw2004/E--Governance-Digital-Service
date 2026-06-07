@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![E-Governance Dashboard](Dashboard/screenshots/SS4_E_Governance_Output.png)
+![E-Governance Dashboard](Dashboard/screenshots/SS4_E_Governnce_Output.png)
 
 # Dashboard Overview
 
