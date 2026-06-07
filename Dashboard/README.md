@@ -1,6 +1,9 @@
 ## Dashboard Preview
 
-![Dashboard Preview](E--Governance-Digital-Service/blob/main/Dashboard/Screenshot/SS4_E_Governnce_Output.png)
+<p align="center">
+  <img src="Dashboard/Screenshot/SS4_E_Govrnnce_Output.png" alt="E-Governance Dashboard" width="100%">
+</p>
+
 
 # Dashboard Overview
 
