@@ -56,7 +56,7 @@ E-Governance-Digital-Service/
 
 - 📁 Dashoards/
 
--  READE.md
+-  README.md
 
 ---
 
