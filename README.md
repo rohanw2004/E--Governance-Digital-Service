@@ -50,9 +50,13 @@ E-Governance-Digital-Service/
 
 - 📁 reports/
 
-- 📁 visualizations/
+- 📁 Screenshots/
 
-- 📁 docs/
+- 📁 assets/
+
+- 📁 Dashoards/
+
+-  READE.md
 
 ---
 
